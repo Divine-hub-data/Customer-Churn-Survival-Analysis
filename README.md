@@ -1,4 +1,4 @@
-# P# Predicting When Customers Will Churn Using Survival Analysis
+# Predicting When Customers Will Churn Using Survival Analysis
 
 ## Project Overview
 
@@ -141,5 +141,6 @@ The project environment can be recreated using the provided `environment.yml` fi
 This project demonstrates how churn can be treated as a **timing problem** rather than just a classification task.
 
 By estimating customer lifetime instead of churn probability, organisations can act earlier and allocate retention resources more effectively.
+
 
 
